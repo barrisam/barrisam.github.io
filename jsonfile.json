@@ -1,0 +1,82 @@
+{
+    "StudentData" : [
+        {
+    "name": "Regina White",
+    "age": 22,
+    "hobby": {
+	"reading" : true,
+	"gaming" : false,
+	"sport" : "volleyball"
+    },
+"social_handles" : [
+    {
+      "site" : "twitter",
+      "link" : "https://twitter.com/"
+    },
+    {
+      "site" : "facebook",
+      "link" : "https://www.facebook.com/"
+    },
+    {
+      "site" : "tiktok",
+      "link" : "https://tiktok.com/"
+    }
+  ],
+
+    "classes" : ["Mathematics", "English", "Physics", "Chemistry"]
+},
+
+{
+    "name": "Raymond Reddington",
+    "age": 20,
+    "hobby": {
+	"reading" : false,
+	"gaming" : true,
+	"sport" : "Hockey"
+    },
+"social_handles" : [
+    {
+      "site" : "twitter",
+      "link" : "https://twitter.com/"
+    },
+    {
+      "site" : "facebook",
+      "link" : "https://www.facebook.com/"
+    },
+    {
+      "site" : "tiktok",
+      "link" : "https://tiktok.com/"
+    }
+  ],
+
+    "classes" : ["History", "English", "Commerce", "Biology"]
+},
+
+{
+    "name": "Linda Forson",
+    "age": 21,
+    "hobby": {
+	"reading" : true,
+	"gaming" : true,
+	"sport" : "Badminton"
+    },
+"social_handles" : [
+    {
+      "site" : "twitter",
+      "link" : "https://twitter.com/"
+    },
+    {
+      "site" : "facebook",
+      "link" : "https://www.facebook.com/"
+    },
+    {
+      "site" : "tiktok",
+      "link" : "https://tiktok.com/"
+    }
+  ],
+
+    "classes" : ["Mathematics", "Physics", "Civic Education", "Chemistry"]
+}
+
+    ]
+}
